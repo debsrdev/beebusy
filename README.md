@@ -6,12 +6,11 @@ BeeBusy, para la gestión de proyectos y tareas, donde los usuarios puedan crear
 roles, establecer fechas límite y hacer seguimiento del progreso de las tareas.
 Además, también se debe implementar un sistema de notificaciones y alertas para mantener a
 los usuarios de la aplicación informados sobre los cambios en las tareas y proyectos.
-Con un diseño de interfaz intuitiva y responsive empleando HTML, CSS y JavaScript, y pudiendo
-elegir entre varias opciones, se requiere el uso de las siguientes tecnologías:
+Con un diseño de interfaz intuitiva y responsive empleando HTML, CSS y JavaScript, se emplean las siguientes tecnologías (stack MERN):
 
-- React o Angular para la creación de componentes en el frontend.
-- Node.js y Express.js para manejar las solicitudes del cliente en el backend.
-- Base de datos SQL (PostgreSQL) o NoSQL (MongoDB) para almacenar la información.
+- React para la creación de componentes en el frontend.
+- Node.js para manejar las solicitudes del cliente en el backend.
+- Base de datos NoSQL (MongoDB) para almacenar la información.
 
 
 
